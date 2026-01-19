@@ -1,2 +1,4 @@
-# study_mode_behavior
-Model Behavior Study Group
+# AI Model Behavior: Reading List & Study Group
+
+
+
