@@ -25,12 +25,17 @@ Begin with these accessible documents that lay out how major AI labs think about
 A living document defining desired behavior for OpenAI's models, including objectives, rules, and how to handle conflicting instructions.  
 🔗 https://openai.com/index/introducing-the-model-spec/
 
-How should AI systems behave
+- How should AI systems behave
 🔗 https://openai.com/index/how-should-ai-systems-behave/
 
-**Claude's Constitution** (Anthropic, 2023)  
+**Claude's Constitution** (Anthropic, 2026)  
 Anthropic's transparent explanation of the principles guiding Claude's behavior, including the philosophy behind Constitutional AI.  
-🔗 https://www.anthropic.com/news/claudes-constitution
+🔗 https://www.anthropic.com/news/claude-new-constitution (2026) -- Older version:
+🔗 https://www.anthropic.com/news/claudes-constitution (2023)
+
+- Introducing Bloom: an open source tool for automated behavioral evaluations
+🔗 https://www.anthropic.com/research/bloom
+
 
 ---
 
