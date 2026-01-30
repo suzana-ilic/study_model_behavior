@@ -1,7 +1,7 @@
 # AI Model Behavior: Reading List & Study Group
 
 Study Groups will be announced here: 
-- Luma 🔗 https://luma.com/MLT-AI
+- Luma 🔗 https://luma.com/AI-Communities
 - Substack 🔗 https://mltaicommunities.substack.com/
 
 **AI Model Behavior Study Group** (Series)
