@@ -1,7 +1,7 @@
 # Industry Specificiations
 
 ## Study Group I: OpenAI 
-January 29, 2026
+January 30, 2026
 https://open.substack.com/pub/mltaicommunities/p/model-behavior-study-group
 
 ### Reading material
