@@ -32,6 +32,7 @@ Solid mental map for a 2-hour intro, well-organized and easy to follow (at least
 - Evals for the tools an agent calls, not just the agent's outputs.
 - Sycophancy / agreeableness wasn't mentioned — is it considered irrelevant in production, or just out of scope here?
 - How do you evaluate generative tasks with a wide space of valid outputs (e.g., test case generation from PRDs) beyond basic LLM-as-judge?
+- Always using discrete classification labels may not be the best idea?
 
 ## Idea floated
 - Releasing something as an open-source agent / project off the back of the group's exploration.
